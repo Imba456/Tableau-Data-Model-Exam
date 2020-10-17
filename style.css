@@ -65,7 +65,7 @@ button {
   box-shadow: 2px 2px 2px 0px rgba(0, 0, 0, 0.24);
   font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
   text-align: center;
-  font-size: 600%;
+  font-size: 500%;
 }
 
 button:hover {
@@ -74,7 +74,7 @@ button:hover {
   box-shadow: 0 5px 5px 0 rgba(0, 0, 0, 0.24), 0 5px 5px 0 rgba(0, 0, 0, 0.19);
   font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
   text-align: center;
-  font-size: 600%;
+  font-size: 500%;
 }
 
 button:focus {
@@ -93,5 +93,5 @@ button:focus {
   box-shadow: 2px 2px 2px 0px rgba(0, 0, 0, 0.24);
   font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
   text-align: center;
-  font-size: 600%;
+  font-size: 500%;
 }
