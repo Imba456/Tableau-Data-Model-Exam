@@ -1,6 +1,7 @@
 body {
   background-color: rgba(230, 221, 213, 0.712);
 }
+
 h1 {
   font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
   text-align: center;
@@ -10,6 +11,7 @@ h1 {
   font-size: 40px;
   padding-bottom: 50px;
 }
+
 #timer {
   font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
   text-align: center;
@@ -17,6 +19,7 @@ h1 {
   font-size: 30px;
   margin: 0px;
 }
+
 h2 {
   padding-top: 50px;
   font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
@@ -44,6 +47,7 @@ h2 {
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
 }
+
 button {
   background-color: #26a69a;
   border: none;
