@@ -1,0 +1,91 @@
+body {
+  background-color: rgba(230, 221, 213, 0.712);
+}
+h1 {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  text-align: center;
+  text-shadow: 2px 2px #eb7515a9;
+  color: rgb(0, 0, 88);
+  text-justify: auto;
+  font-size: 40px;
+  padding-bottom: 50px;
+}
+#timer {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  text-align: center;
+  color: rgba(0, 0, 88, 0.746);
+  font-size: 30px;
+  margin: 0px;
+}
+h2 {
+  padding-top: 50px;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  text-align: center;
+  color: rgb(0, 0, 88);
+  text-justify: auto;
+  font-size: 30px;
+  margin: 0px;
+}
+
+.center {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+.bottom {
+  margin: 0;
+  position: absolute;
+  top: 80%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+button {
+  background-color: #26a69a;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+  margin: 4px 2px;
+  cursor: pointer;
+  box-shadow: 2px 2px 2px 0px rgba(0, 0, 0, 0.24);
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  text-align: center;
+  font-size: 80px;
+}
+
+button:hover {
+  outline: 0;
+  background-color: #ee6e73;
+  box-shadow: 0 5px 5px 0 rgba(0, 0, 0, 0.24), 0 5px 5px 0 rgba(0, 0, 0, 0.19);
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  text-align: center;
+  font-size: 80px;
+}
+
+button:focus {
+  outline: 0;
+  background-color: #ee6e73;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+  margin: 4px 2px;
+  cursor: pointer;
+  box-shadow: 2px 2px 2px 0px rgba(0, 0, 0, 0.24);
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  text-align: center;
+  font-size: 80px;
+}
