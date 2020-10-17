@@ -44,7 +44,7 @@ function examfunction(){
                 else {
             alert("Just joking, it's time for questions")};
         },
-        5000);
+        1000);
 }
 
 //run exam funtion on click
