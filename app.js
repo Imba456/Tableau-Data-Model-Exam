@@ -29,7 +29,7 @@ let x = setInterval(function() {
 const startexam=document.getElementById("exambutton");
 
 //create a date time for when the teaching day is and timetoday
-let examdate = new Date("Feb 02, 2021 16:00:00").getTime();
+let examdate = new Date("Feb 02, 2021 15:00:00").getTime();
 let timetoday = new Date().getTime();
 
 //time diff between examdate and now
@@ -42,7 +42,7 @@ function examfunction(){
             if (datecheck > 0) {
             alert("You cannot take the exam yet, wait until at least 02-02-2021 15:00")                }
                 else {
-            alert("Just joking, it's time for questions")};
+            alert("Just joking, it's time for questions test")};
         },
         1000);
 }
