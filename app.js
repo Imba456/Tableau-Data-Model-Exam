@@ -42,7 +42,7 @@ function examfunction(){
             if (datecheck > 0) {
             alert("You cannot take the exam yet, wait until at least 02-02-2021 15:00")                }
                 else {
-            alert("Just joking, it's time for questions test")};
+            alert("Just joking, it's time for questions")};
         },
         1000);
 }
