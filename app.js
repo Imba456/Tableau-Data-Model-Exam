@@ -29,7 +29,7 @@ let x = setInterval(function() {
 const startexam=document.getElementById("exambutton");
 
 //create a date time for when the teaching day is and timetoday
-let examdate = new Date("Feb 02, 2021 15:00:00").getTime();
+let examdate = new Date("Oct 26, 2021 15:00:00").getTime();
 let timetoday = new Date().getTime();
 
 //time diff between examdate and now
